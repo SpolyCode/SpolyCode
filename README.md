@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently diving into the world of freelancing — building cool stuff, growing my network, and always open to new challenges and collaborations.
+Currently diving into the world of DevSecOps — building cool stuff, growing my network, and always open to new challenges and collaborations.
 
 
 # 💻 Tech Stack:
